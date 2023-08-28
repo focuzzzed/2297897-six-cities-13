@@ -26,7 +26,7 @@ const Header = () =>{
             <Link className="header__logo-link" to={Paths.Main}>
               <img
                 className="header__logo"
-                src="markup/img/logo.svg"
+                src="../img/logo.svg"
                 alt="6 cities logo"
                 width="81"
                 height="41"
